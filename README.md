@@ -1,2 +1,8 @@
 # exploration-journey
-Exploring different data sets and creating some standardised code
+Planned structure of this repo:
+
+Existing code I used a broad range of packages and methods on
+
+Exploring new data sets
+
+Reports
